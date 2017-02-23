@@ -96,6 +96,9 @@ func ==(lhs: Move, rhs: Move) -> Bool {
     return lhs.id == rhs.id
 }
 
+
+
+
 // http://bulbapedia.bulbagarden.net/wiki/Statistic
 struct Stats {
     let hitpoints       : Int
